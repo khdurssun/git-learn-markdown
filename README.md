@@ -25,3 +25,6 @@
 
 *Cursive*
 _Cursive_
+
+*Bold*
+__Bold__
