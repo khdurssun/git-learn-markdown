@@ -28,3 +28,6 @@ _Cursive_
 
 *Bold*
 __Bold__
+
+***Bold+Cursive***
+___Bold+Cursive___
